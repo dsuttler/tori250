@@ -1,0 +1,3 @@
+/Users/devinsuttler/CLionProjects/tori_250/cmake-build-debug/CMakeFiles/tori_250.dir
+/Users/devinsuttler/CLionProjects/tori_250/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/devinsuttler/CLionProjects/tori_250/cmake-build-debug/CMakeFiles/rebuild_cache.dir
